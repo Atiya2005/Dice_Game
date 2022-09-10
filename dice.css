@@ -1,0 +1,29 @@
+/* style.css */
+body{
+    background-color: cadetblue;
+}
+
+.container{
+     text-align: center;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    color: aquamarine;
+}
+
+.dice{
+    text-align: center; 
+    display: inline-block;
+}
+
+p{
+    font-size: 2rem;
+    color: rgb(5, 54, 160);
+    font-family: 'Indie Flower', cursive;
+}
+
+img{
+    width: 80%;
+}
